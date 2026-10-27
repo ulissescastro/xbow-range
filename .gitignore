@@ -1,0 +1,7 @@
+# runtime state and per-target working copies
+.xbow/
+targets/
+# local pi task/session metadata
+.pi/
+__pycache__/
+*.pyc
